@@ -10,4 +10,4 @@ my university, nameley K. N. Toosi Universit of Technology.
 I have used this theme to create the poster that is about Gary Kildall.
 
 # HelperPrograms
-This Folder contains the python program I wrote to create the [timeline.jpg](https://github.com/xemadp/GaryKildall/images/timeline.jpg) photo.
+This Folder contains the python program I wrote to create the [timeline.jpg](https://github.com/xemadp/GaryKildall/blob/master/images/timeline.jpg) photo.
